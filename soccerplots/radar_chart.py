@@ -124,8 +124,8 @@ class Radar:
             ax = self.__plot_circles(ax=ax, radar_color=radar_color, vertices=vertices)
         
         ## add credits 
-        ax.text(22, -21.5, 'Inspired By: Statsbomb / Rami Moghadam', fontfamily=self.fontfamily, ha='right',
-                fontdict={"color": end_color}, fontsize=end_size)
+##        ax.text(22, -21.5, 'Inspired By: Statsbomb / Rami Moghadam', fontfamily=self.fontfamily, ha='right',
+##                fontdict={"color": end_color}, fontsize=end_size)
 
         ## add endnote
         if endnote != None:
