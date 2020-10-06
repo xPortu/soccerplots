@@ -5,14 +5,14 @@ with open("README.md", "r") as ofile:
 
 setup(
     name="soccerplots",
-    version="1.0.0",
+    version="1.0.1",
     description="A Python package for data visualization for football analytics",
     packages=['soccerplots'],
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Anmol Durgapal",
-    author_email="slothfulwave10@gmail.com",
-    url="https://github.com/Slothfulwave612/soccerplots",
+    author="*",
+    author_email="*@gmail.com",
+    url="https://github.com/xPortu/soccerplots",
     license="MIT License",
     classifiers=[
         "License :: OSI Approved :: MIT License",
